@@ -1,4 +1,4 @@
-<h2>Setting up Website locally on Linux machine</h2>
+<h2>Project:Setting up Website locally on Linux machine</h2>
 <h3 align="left">Languages and Tools:CentOS7, Vagrant, GitBash, Website</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
